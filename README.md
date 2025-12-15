@@ -30,17 +30,3 @@ Collections Framework
 6. Sort Books
 7. Exit
 Enter choice:
-
-
-📄 License
-This project is open-source and free to use under the MIT License.
-
-👤 Author
-
-Vivek
-B.Tech CSE (Core) Student
-KR Mangalam University (2024–2028)
-🔭 Exploring Java, DSA, and Backend Development
-💡 Passionate about building real-world applications
-📧 Email: vivekrai18th@gmail.com
-🌐 LinkedIn: (https://www.linkedin.com/feed/)
